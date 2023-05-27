@@ -9,7 +9,7 @@ As a coding student with over 5 years of technical support experience, I am eage
 ### **Skills:**
 * Strong analytical and problem-solving skills
 * Excellent communication and interpersonal skills
-* Experience with programming languages such as Java, Python, and JavaScript
+* Basic knowledge of programming languages such as Java, Python, and JavaScript
 * Familiarity with MySQL
 * Ability to write technical documentation and user manuals
 * Experience with version control systems such as Git
